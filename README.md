@@ -4,13 +4,13 @@ Bu proje, C# ve OpenCV kütüphanesi kullanılarak geliştirilen basit bir yüz 
 Bilgisayar kamerası üzerinden gerçek zamanlı görüntü işleme yaparak yüz, göz ve profil tespiti gerçekleştirir.
 
 📂 Proje Yapısı
-OpenCV_Yuzalgilama/
-├── Form1.cs → Ana form ve arayüz kodları
-├── Program.cs → Uygulama başlangıç noktası
-├── haarcascade_frontalface_default.xml → Yüz algılama modeli
-├── haarcascade_eye.xml → Göz algılama modeli
-├── haarcascade_profileface.xml → Profil algılama modeli
-└── App.config, .csproj, .sln → Proje yapı dosyaları
+OpenCV_Yuzalgilama/  
+├── Form1.cs → Ana form ve arayüz kodları  
+├── Program.cs → Uygulama başlangıç noktası  
+├── haarcascade_frontalface_default.xml → Yüz algılama modeli  
+├── haarcascade_eye.xml → Göz algılama modeli  
+├── haarcascade_profileface.xml → Profil algılama modeli  
+└── App.config, .csproj, .sln → Proje yapı dosyaları  
 
 ⚙️ Özellikler
 
